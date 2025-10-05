@@ -8,7 +8,7 @@
   letter-spacing:.6px;
   margin:0 0 10px 0;
 ">
-  Achllzvr
+  Achilles Vonn Rabina
 </h1>
 
 <!-- Lead / Short Description -->
@@ -42,7 +42,21 @@
   </a>
   <img alt="GitHub followers" height="34"
        src="https://img.shields.io/badge/FOLLOWERS-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000">
+  
+  <span style="
+    position:absolute;
+    left:0;
+    bottom:0;
+    width:100%;
+    height:2px;
+    background:linear-gradient(to right,#ffffff,#ffffff 65%,rgba(255,255,255,0.25));
+  "></span>
+  
 </div>
+
+<!-- Optional subtle divider -->
+<hr style="border:0;border-top:1px solid #202020;margin:20px 0 10px 0;" />
+
 
 <!-- Bio Inline Line -->
 <p style="
@@ -60,6 +74,11 @@
   <strong style="font-weight:600;">Focus:</strong> Full‑Time Student · Full‑Stack Mobile (Flutter) · Full‑Stack Web · Software Engineer · Content Creator
   <!-- BIO:END -->
 </p>
+
+
+<!-- Optional subtle divider -->
+<hr style="border:0;border-top:1px solid #202020;margin:20px 0 10px 0;" />
+
 
 <!-- Section Heading: STACK -->
 <h2 style="
