@@ -1,10 +1,4 @@
-<!-- Monochrome Minimal Profile README v4
-Changes in this version (per request):
-- Projects redesigned as stat-style “cards” (white text, white border, transparent background) similar to GitHub stats cards.
-- Stack badges keep black background + white text, BUT language/framework logos are now in their original brand colors (only the icon, not background or text).
-- Other (tool / concept) badges remain strictly monochrome.
-- Existing automation markers preserved (PROJECTS-CARDS, ACTIVITY sections, etc.).
--->
+<!-- Monochrome Minimal Profile README v5 -->
 
 <h1 style="font-family:Helvetica,Arimo,'Segoe UI',Arial,sans-serif;
            font-weight:650;letter-spacing:.5px;margin:0 0 8px 0;">
@@ -18,7 +12,7 @@ Changes in this version (per request):
   <!-- SHORT-DESCRIPTION:END -->
 </p>
 
-<!-- Social / Meta -->
+<!-- Social -->
 <p style="margin:0 0 18px 0;display:flex;flex-wrap:wrap;gap:8px;">
   <a href="https://www.linkedin.com/in/avrabina/">
     <img alt="LinkedIn" height="32" src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&labelColor=000000">
@@ -29,7 +23,6 @@ Changes in this version (per request):
   <img alt="Followers" height="32" src="https://img.shields.io/badge/FOLLOWERS-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000">
 </p>
 
-<!-- Bio -->
 <div style="font-family:Helvetica,Arimo,'Segoe UI',Arial,sans-serif;
             font-size:12.8px;line-height:1.35;margin-bottom:18px;">
   <!-- BIO:START -->
@@ -37,13 +30,12 @@ Changes in this version (per request):
   <!-- BIO:END -->
 </div>
 
-<!-- STACK Heading Badge -->
+<!-- STACK -->
 <p style="margin:0 0 10px 0;">
   <img alt="STACK" height="30" src="https://img.shields.io/badge/STACK-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBm
 aWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjYiIHk9IjciIHdpZHRoPSIyMCIgaGVpZ2h0PSI0Ii8+PHJlY3QgeD0iNiIgeT0iMTUiIHdpZHRoPSIyMCIgaGVpZ2h0PSI0Ii8+PHJlY3QgeD0iNiIgeT0iMjMiIHdpZHRoPSIyMCIgaGVpZ2h0PSI0Ii8+PC9zdmc+" />
 </p>
 
-<!-- Core Languages / Frameworks (logos colored, background & text monochrome) -->
 <p style="margin:6px 0 4px 0;display:flex;flex-wrap:wrap;gap:6px;">
   <img alt="Dart" height="30" src="https://img.shields.io/badge/DART-000000?style=for-the-badge&logo=dart&labelColor=000000">
   <img alt="Flutter" height="30" src="https://img.shields.io/badge/FLUTTER-000000?style=for-the-badge&logo=flutter&labelColor=000000">
@@ -53,8 +45,6 @@ aWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjYiIHk9Ijci
   <img alt="HTML" height="30" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&labelColor=000000">
   <img alt="CSS" height="30" src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&labelColor=000000">
 </p>
-
-<!-- Supporting / Tooling (logos kept white to stay subtle) -->
 <p style="margin:4px 0;display:flex;flex-wrap:wrap;gap:6px;">
   <img alt="MySQL" height="28" src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=000000">
   <img alt="Git" height="28" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000">
@@ -66,138 +56,51 @@ aWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjYiIHk9Ijci
   <img alt="OOP" height="28" src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=dependabot&logoColor=FFFFFF&labelColor=000000">
 </p>
 
-<hr style="border:0;border-top:1px solid #222;margin:18px 0 14px 0;" />
+---
 
-<!-- PROJECTS Heading -->
-<p style="margin:0 0 12px 0;">
-  <img alt="PROJECTS" height="30" src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBm
-aWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik04IDloMTYiLz48cGF0aCBkPSI4IDE2aDE2Ii8+PHBhdGggZD0iOCAyM2gxNiIvPjwvc3ZnPg==&logoColor=FFFFFF&labelColor=000000">
-</p>
+### PROJECTS
 
-<!-- PROJECT CARDS styled like stats cards -->
 <!-- PROJECTS-CARDS:START -->
-<div style="display:flex;flex-wrap:wrap;gap:14px;align-items:stretch;">
-  <!-- Card -->
-  <div style="flex:1 1 250px;min-width:240px;border:1px solid #FFFFFF;padding:10px 14px;
-              font-family:Helvetica,Arimo,'Segoe UI',Arial,sans-serif;font-size:12.5px;
-              line-height:1.35;background:transparent;">
-    <div style="display:flex;justify-content:space-between;align-items:center;">
-      <strong style="font-size:13px;"><a href="https://github.com/achllzvr/NUtify" style="color:#FFFFFF;text-decoration:none;">NUtify</a></strong>
-      <code style="font-family:'JetBrains Mono',monospace;font-size:10.5px;">★ 1</code>
-    </div>
-    <div style="margin-top:4px;">Beta utility / notification app refining mobile UX & state.</div>
-    <div style="margin-top:6px;font-family:'JetBrains Mono',monospace;font-size:10.5px;">
-      Stack: Flutter &nbsp;|&nbsp; Status: BETA
-      <br/>Scope: ████████░░ 80%
-    </div>
-  </div>
+<!-- Using a clean Markdown list for consistent rendering across themes. -->
+<!-- Progress bars are 10-character blocks: █ = filled, ░ = empty -->
+**[NUtify](https://github.com/achllzvr/NUtify)** `★ 1`  
+Beta utility / notification app refining mobile UX & state.  
+`Stack: Flutter | Status: BETA`  
+`Scope: [████████░░] 80%`
 
-  <div style="flex:1 1 250px;min-width:240px;border:1px solid #FFFFFF;padding:10px 14px;
-              font-family:Helvetica,Arimo,'Segoe UI',Arial,sans-serif;font-size:12.5px;
-              line-height:1.35;background:transparent;">
-    <div style="display:flex;justify-content:space-between;align-items:center;">
-      <strong style="font-size:13px;"><a href="https://github.com/achllzvr/NUtify-Alpha" style="color:#FFFFFF;text-decoration:none;">NUtify-Alpha</a></strong>
-      <code style="font-family:'JetBrains Mono',monospace;font-size:10.5px;">★ 2</code>
-    </div>
-    <div style="margin-top:4px;">Original Java iteration exploring baseline architecture.</div>
-    <div style="margin-top:6px;font-family:'JetBrains Mono',monospace;font-size:10.5px;">
-      Stack: Java &nbsp;|&nbsp; Status: LEGACY
-      <br/>Scope: ██████░░░░ 60%
-    </div>
-  </div>
+**[NUtify-Alpha](https://github.com/achllzvr/NUtify-Alpha)** `★ 2`  
+Original Java iteration exploring baseline architecture.  
+`Stack: Java | Status: LEGACY`  
+`Scope: [██████░░░░] 60%`
 
-  <div style="flex:1 1 250px;min-width:240px;border:1px solid #FFFFFF;padding:10px 14px;
-              font-family:Helvetica,Arimo,'Segoe UI',Arial,sans-serif;font-size:12.5px;
-              line-height:1.35;background:transparent;">
-    <div style="display:flex;justify-content:space-between;align-items:center;">
-      <strong style="font-size:13px;"><a href="https://github.com/achllzvr/washette" style="color:#FFFFFF;text-decoration:none;">washette</a></strong>
-      <code style="font-family:'JetBrains Mono',monospace;font-size:10.5px;">★ 2</code>
-    </div>
-    <div style="margin-top:4px;">Website build focusing on structure, routing & templating.</div>
-    <div style="margin-top:6px;font-family:'JetBrains Mono',monospace;font-size:10.5px;">
-      Stack: PHP &nbsp;|&nbsp; Status: ACTIVE
-      <br/>Scope: ████████░░ 80%
-    </div>
-  </div>
+**[washette](https://github.com/achllzvr/washette)** `★ 2`  
+Website build focusing on structure, routing & templating.  
+`Stack: PHP | Status: ACTIVE`  
+`Scope: [████████░░] 80%`
 
-  <div style="flex:1 1 250px;min-width:240px;border:1px solid #FFFFFF;padding:10px 14px;
-              font-family:Helvetica,Arimo,'Segoe UI',Arial,sans-serif;font-size:12.5px;
-              line-height:1.35;background:transparent;">
-    <div style="display:flex;justify-content:space-between;align-items:center;">
-      <strong style="font-size:13px;"><a href="https://github.com/achllzvr/G-A-L-A" style="color:#FFFFFF;text-decoration:none;">G-A-L-A</a></strong>
-      <code style="font-family:'JetBrains Mono',monospace;font-size:10.5px;">★ 1</code>
-    </div>
-    <div style="margin-top:4px;">Layout & styling practice (semantic + modular CSS).</div>
-    <div style="margin-top:6px;font-family:'JetBrains Mono',monospace;font-size:10.5px;">
-      Stack: CSS · HTML &nbsp;|&nbsp; Status: IN PROG
-      <br/>Scope: ██████░░░░ 60%
-    </div>
-  </div>
+**[G-A-L-A](https://github.com/achllzvr/G-A-L-A)** `★ 1`  
+Layout & styling practice (semantic + modular CSS).  
+`Stack: CSS · HTML | Status: IN PROG`  
+`Scope: [██████░░░░] 60%`
 
-  <div style="flex:1 1 250px;min-width:240px;border:1px solid #FFFFFF;padding:10px 14px;
-              font-family:Helvetica,Arimo,'Segoe UI',Arial,sans-serif;font-size:12.5px;
-              line-height:1.35;background:transparent;">
-    <div style="display:flex;justify-content:space-between;align-items:center;">
-      <strong style="font-size:13px;"><a href="https://github.com/achllzvr/mareese-retreat" style="color:#FFFFFF;text-decoration:none;">mareese-retreat</a></strong>
-      <code style="font-family:'JetBrains Mono',monospace;font-size:10.5px;">★ 1</code>
-    </div>
-    <div style="margin-top:4px;">Static informational site with clean markup focus.</div>
-    <div style="margin-top:6px;font-family:'JetBrains Mono',monospace;font-size:10.5px;">
-      Stack: HTML &nbsp;|&nbsp; Status: STABLE
-      <br/>Scope: ███████░░░ 70%
-    </div>
-  </div>
-</div>
+**[mareese-retreat](https://github.com/achllzvr/mareese-retreat)** `★ 1`  
+Static informational site with clean markup focus.  
+`Stack: HTML | Status: STABLE`  
+`Scope: [███████░░░] 70%`
 <!-- PROJECTS-CARDS:END -->
 
-<hr style="border:0;border-top:1px solid #222;margin:20px 0 14px 0;" />
+---
 
-<!-- ACTIVITY Heading -->
-<p style="margin:0 0 12px 0;">
-  <img alt="GITHUB ACTIVITY" height="30" src="https://img.shields.io/badge/GITHUB_ACTIVITY-000000?style=for-the-badge&logo=pulse&logoColor=FFFFFF&labelColor=000000">
-</p>
+### GITHUB ACTIVITY
 
-<!-- Stats Cards (all white text/icon) -->
-<div style="display:flex;flex-wrap:wrap;gap:12px;margin:0 0 10px 0;">
+<div style="display:flex;flex-wrap:wrap;gap:12px;margin:0 0 6px 0;">
   <img alt="GitHub Stats" height="150"
        src="https://github-readme-stats.vercel.app/api?username=achllzvr&show_icons=true&hide_rank=false&hide_title=false&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=00000000&line_height=22" />
   <img alt="GitHub Streak" height="150"
        src="https://streak-stats.demolab.com?user=achllzvr&hide_border=false&border=FFFFFF&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" />
 </div>
 
-<!-- High-Level Activity Text -->
-<pre style="font-family:'JetBrains Mono',Consolas,monospace;font-size:11.5px;
-            line-height:1.35;background:#0a0a0a;color:#FFFFFF;padding:10px 12px;
-            border:1px solid #222;border-radius:4px;max-width:640px;margin:0 0 8px 0;">
-<!-- ACTIVITY-STATS:START -->
-30d Commits: ---   Open Repos: 20   Active Projects: 5   Stars (own): 7
-Last Push: ---     Focus: Flutter UI · Web fundamentals
-<!-- ACTIVITY-STATS:END -->
-</pre>
-
-<!-- Sparkline -->
-<div style="font-family:'JetBrains Mono',monospace;font-size:11.5px;margin:4px 0 10px 0;">
-  <strong style="font-family:Helvetica,Arimo,sans-serif;font-size:12px;">Recent Commit Sparkline (14d)</strong><br/>
-  <code><!-- COMMITS-SPARKLINE:START -->▁▂▂▄▅▃▆█▅▅▄▂▃▆<!-- COMMITS-SPARKLINE:END --></code>
-</div>
-
-<!-- Recent Commits -->
-<div style="font-family:'JetBrains Mono',Consolas,monospace;font-size:11.25px;margin-top:4px;">
-  <strong style="font-family:Helvetica,Arimo,sans-serif;font-size:12px;">Recent Commits</strong><br />
-  <!-- RECENT-COMMITS:START -->
-  (Placeholder for recent commits)
-  <!-- RECENT-COMMITS:END -->
-</div>
-
-<!-- Recent Activity -->
-<div style="font-family:'JetBrains Mono',Consolas,monospace;font-size:11.25px;margin-top:8px;">
-  <strong style="font-family:Helvetica,Arimo,sans-serif;font-size:12px;">Recent Repo Events</strong><br />
-  <!-- RECENT-REPOS:START -->
-  (Placeholder for recent repository activity)
-  <!-- RECENT-REPOS:END -->
-</div>
-
-<hr style="border:0;border-top:1px solid #222;margin:20px 0 12px 0;" />
+---
 
 <details>
   <summary style="font-family:Helvetica,Arimo,'Segoe UI',Arial,sans-serif;
