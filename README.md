@@ -32,8 +32,7 @@
 
 <!-- STACK -->
 <p style="margin:0 0 10px 0;">
-  <img alt="STACK" height="30" src="https://img.shields.io/badge/STACK-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBm
-aWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjYiIHk9IjciIHdpZHRoPSIyMCIgaGVpZ2h0PSI0Ii8+PHJlY3QgeD0iNiIgeT0iMTUiIHdpZHRoPSIyMCIgaGVpZ2h0PSI0Ii8+PHJlY3QgeD0iNiIgeT0iMjMiIHdpZHRoPSIyMCIgaGVpZ2h0PSI0Ii8+PC9zdmc+" />
+           STACK
 </p>
 
 <p style="margin:6px 0 4px 0;display:flex;flex-wrap:wrap;gap:6px;">
@@ -55,41 +54,6 @@ aWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjYiIHk9Ijci
   <img alt="STATE MGMT" height="28" src="https://img.shields.io/badge/STATE_MGMT-000000?style=for-the-badge&logo=code&logoColor=FFFFFF&labelColor=000000">
   <img alt="OOP" height="28" src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=dependabot&logoColor=FFFFFF&labelColor=000000">
 </p>
-
----
-
-### PROJECTS
-
-<!-- PROJECTS-CARDS:START -->
-<!-- Using a clean Markdown list for consistent rendering across themes. -->
-<!-- Progress bars are 10-character blocks: █ = filled, ░ = empty -->
-**[NUtify](https://github.com/achllzvr/NUtify)** `★ 1`  
-Beta utility / notification app refining mobile UX & state.  
-`Stack: Flutter | Status: BETA`  
-`Scope: [████████░░] 80%`
-
-**[NUtify-Alpha](https://github.com/achllzvr/NUtify-Alpha)** `★ 2`  
-Original Java iteration exploring baseline architecture.  
-`Stack: Java | Status: LEGACY`  
-`Scope: [██████░░░░] 60%`
-
-**[washette](https://github.com/achllzvr/washette)** `★ 2`  
-Website build focusing on structure, routing & templating.  
-`Stack: PHP | Status: ACTIVE`  
-`Scope: [████████░░] 80%`
-
-**[G-A-L-A](https://github.com/achllzvr/G-A-L-A)** `★ 1`  
-Layout & styling practice (semantic + modular CSS).  
-`Stack: CSS · HTML | Status: IN PROG`  
-`Scope: [██████░░░░] 60%`
-
-**[mareese-retreat](https://github.com/achllzvr/mareese-retreat)** `★ 1`  
-Static informational site with clean markup focus.  
-`Stack: HTML | Status: STABLE`  
-`Scope: [███████░░░] 70%`
-<!-- PROJECTS-CARDS:END -->
-
----
 
 ### GITHUB ACTIVITY
 
