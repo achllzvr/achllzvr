@@ -1,189 +1,152 @@
-<!-- Monochrome Minimal Profile README v2 (Projects + Activity Enhanced) -->
+<!-- Monochrome Minimal Profile README v3
+User preferences:
+- Black & white only (no color accents).
+- Larger “for-the-badge” style badges.
+- Reworked Projects section using badge clusters (no tables / cards).
+- Activity: keep only GitHub stat cards; force white text/icons.
+- Remove Language Mix section entirely.
+- Replace previous inline SVG icons (some clients blocked them) with heading badges.
+NOTE: Forcing ALL WHITE text in stat cards may reduce legibility in GitHub light theme (white on white). Adjust if needed.
+-->
 
 <h1 style="font-family:Helvetica,Arimo,'Segoe UI',Arial,sans-serif;
-           font-weight:600;letter-spacing:.5px;margin:0 0 6px 0;">
+           font-weight:650;letter-spacing:.5px;margin:0 0 8px 0;">
   Achllzvr
 </h1>
 
 <p style="font-family:Helvetica,Arimo,'Segoe UI',Arial,sans-serif;
-          font-size:14px;line-height:1.45;margin:0 0 14px 0;">
+          font-size:14px;line-height:1.45;margin:0 0 16px 0;">
   <!-- SHORT-DESCRIPTION:START -->
   Dean’s Lister & team‑oriented full‑stack (web & mobile) student developer building practical academic + personal projects.
   <!-- SHORT-DESCRIPTION:END -->
 </p>
 
 <!-- Social / Meta -->
-<p style="margin:0 0 16px 0;display:flex;flex-wrap:wrap;gap:6px;">
+<p style="margin:0 0 18px 0;display:flex;flex-wrap:wrap;gap:8px;">
   <a href="https://www.linkedin.com/in/avrabina/">
-    <img alt="LinkedIn" height="30" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000">
+    <img alt="LinkedIn" height="32" src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000">
   </a>
   <a href="https://www.youtube.com/@chi.11101">
-    <img alt="YouTube" height="30" src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FFFFFF&labelColor=000000">
+    <img alt="YouTube" height="32" src="https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=FFFFFF&labelColor=000000">
   </a>
-  <img alt="Followers" height="30" src="https://img.shields.io/badge/Followers-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&label=Followers&labelColor=000000">
+  <img alt="Followers" height="32" src="https://img.shields.io/badge/FOLLOWERS-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000">
 </p>
 
-<!-- Compact Bio -->
+<!-- Bio -->
 <div style="font-family:Helvetica,Arimo,'Segoe UI',Arial,sans-serif;
-            font-size:12.75px;line-height:1.35;margin-bottom:14px;">
+            font-size:12.8px;line-height:1.35;margin-bottom:18px;">
   <!-- BIO:START -->
   Full‑Time Student · Full‑Stack Mobile (Flutter) · Full‑Stack Web · Software Engineer · Content Creator
   <!-- BIO:END -->
 </div>
 
-<hr style="border:0;border-top:1px solid #222;margin:10px 0 18px 0;" />
+<!-- STACK Heading Badge -->
+<p style="margin:0 0 10px 0;">
+  <img alt="STACK" height="30" src="https://img.shields.io/badge/STACK-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBm
+aWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjYiIHk9IjciIHdpZHRoPSIyMCIgaGVpZ2h0PSI0Ii8+PHJlY3QgeD0iNiIgeT0iMTUiIHdpZHRoPSIyMCIgaGVpZ2h0PSI0Ii8+PHJlY3QgeD0iNiIgeT0iMjMiIHdpZHRoPSIyMCIgaGVpZ2h0PSI0Ii8+PC9zdmc+" />
+</p>
 
-<!-- STACK -->
-<h3 style="font-family:Helvetica,Arimo,'Segoe UI',Arial,sans-serif;font-size:15px;
-           margin:0 0 10px 0;font-weight:600;display:flex;align-items:center;gap:6px;">
-  <img alt="stack icon" width="18" src="data:image/svg+xml;utf8,
-  <svg xmlns='http://www.w3.org/2000/svg' width='18' height='18' stroke='white' stroke-width='1.2' fill='none'>
-    <rect x='2.5' y='2.5' width='13' height='5'/>
-    <rect x='2.5' y='10.5' width='13' height='5'/>
-  </svg>">
-  STACK
-</h3>
-
-<!-- Core Languages -->
-<p style="margin:6px 0;display:flex;flex-wrap:wrap;gap:6px;">
-  <img alt="Dart" height="30" src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=FFFFFF&labelColor=000000">
-  <img alt="Flutter" height="30" src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=FFFFFF&labelColor=000000">
-  <img alt="Java" height="30" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=000000">
+<!-- Core Languages / Tools -->
+<p style="margin:6px 0 4px 0;display:flex;flex-wrap:wrap;gap:6px;">
+  <img alt="Dart" height="30" src="https://img.shields.io/badge/DART-000000?style=for-the-badge&logo=dart&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Flutter" height="30" src="https://img.shields.io/badge/FLUTTER-000000?style=for-the-badge&logo=flutter&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Java" height="30" src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=000000">
   <img alt="PHP" height="30" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FFFFFF&labelColor=000000">
-  <img alt="JavaScript" height="30" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=000000">
-  <img alt="HTML5" height="30" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=000000">
-  <img alt="CSS3" height="30" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=000000">
+  <img alt="JavaScript" height="30" src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=000000">
+  <img alt="HTML" height="30" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=000000">
+  <img alt="CSS" height="30" src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=000000">
 </p>
-
-<!-- Tooling -->
 <p style="margin:4px 0;display:flex;flex-wrap:wrap;gap:6px;">
-  <img alt="MySQL" height="28" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=000000">
-  <img alt="Git" height="28" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000">
-  <img alt="GitHub" height="28" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000">
-  <img alt="Bootstrap" height="28" src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&labelColor=000000">
-  <img alt="VS Code" height="28" src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF&labelColor=000000">
+  <img alt="MySQL" height="28" src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Git" height="28" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000">
+  <img alt="GitHub" height="28" src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Bootstrap" height="28" src="https://img.shields.io/badge/BOOTSTRAP-000000?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&labelColor=000000">
+  <img alt="VS Code" height="28" src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Auth" height="28" src="https://img.shields.io/badge/AUTH-000000?style=for-the-badge&logo=lock&logoColor=FFFFFF&labelColor=000000">
+  <img alt="STATE MGMT" height="28" src="https://img.shields.io/badge/STATE_MGMT-000000?style=for-the-badge&logo=code&logoColor=FFFFFF&labelColor=000000">
+  <img alt="OOP" height="28" src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=dependabot&logoColor=FFFFFF&labelColor=000000">
 </p>
 
-<!-- Concepts -->
-<p style="margin:4px 0;display:flex;flex-wrap:wrap;gap:6px;">
-  <img alt="OOP" height="26" src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=dependabot&logoColor=FFFFFF&labelColor=000000">
-  <img alt="MVC" height="26" src="https://img.shields.io/badge/MVC-000000?style=for-the-badge&logo=buffer&logoColor=FFFFFF&labelColor=000000">
-  <img alt="Auth" height="26" src="https://img.shields.io/badge/Auth_&_Sessions-000000?style=for-the-badge&logo=lock&logoColor=FFFFFF&labelColor=000000">
-  <img alt="State" height="26" src="https://img.shields.io/badge/State_Management-000000?style=for-the-badge&logo=code&logoColor=FFFFFF&labelColor=000000">
+<hr style="border:0;border-top:1px solid #222;margin:18px 0 14px 0;" />
+
+<!-- PROJECTS Heading Badge -->
+<p style="margin:0 0 10px 0;">
+  <img alt="PROJECTS" height="30" src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik04IDloMTYiLz48cGF0aCBkPSI4IDE2aDE2Ii8+PHBhdGggZD0iOCAyM2gxNiIvPjwvc3ZnPg==&logoColor=FFFFFF&labelColor=000000">
 </p>
 
-<hr style="border:0;border-top:1px solid #222;margin:16px 0 14px 0;" />
-
-<!-- PROJECTS -->
-<h3 style="font-family:Helvetica,Arimo,'Segoe UI',Arial,sans-serif;font-size:15px;
-           margin:0 0 10px 0;font-weight:600;display:flex;align-items:center;gap:6px;">
-  <img alt="projects icon" width="18" src="data:image/svg+xml;utf8,
-  <svg xmlns='http://www.w3.org/2000/svg' width='18' height='18' stroke='white' stroke-width='1.2' fill='none'>
-    <path d='M2 4h14M2 9h14M2 14h14'/>
-  </svg>">
-  PROJECTS
-</h3>
-
-<!-- PROJECT CARDS (Monochrome) -->
+<!-- PROJECT BADGE CLUSTERS -->
 <!-- PROJECTS-CARDS:START -->
-<table style="width:100%;border-collapse:separate;border-spacing:0 6px;
-             font-family:Helvetica,Arimo,'Segoe UI',Arial,sans-serif;font-size:12.4px;">
-  <tbody>
-    <tr style="background:#0a0a0a;border:1px solid #222;">
-      <td style="padding:8px 10px;width:24%;vertical-align:top;">
-        <strong><a href="https://github.com/achllzvr/NUtify" style="color:#fff;">NUtify</a></strong><br/>
-        <code style="font-family:'JetBrains Mono',monospace;font-size:11px;">Flutter</code>
-      </td>
-      <td style="padding:8px 10px;vertical-align:top;">
-        Beta utility / notification app refining mobile UX & structured state.
-        <div style="margin-top:6px;font-family:'JetBrains Mono',monospace;font-size:11px;">
-          Scope ████████░░ (80%) • Status: <span style="background:#fff;color:#000;padding:1px 4px;font-weight:600;">BETA</span>
-        </div>
-      </td>
-      <td style="padding:8px 10px;width:50px;text-align:right;vertical-align:top;">
-        ★1
-      </td>
-    </tr>
-    <tr style="background:#0a0a0a;border:1px solid #222;">
-      <td style="padding:8px 10px;width:24%;vertical-align:top;">
-        <strong><a href="https://github.com/achllzvr/NUtify-Alpha" style="color:#fff;">NUtify-Alpha</a></strong><br/>
-        <code style="font-family:'JetBrains Mono',monospace;font-size:11px;">Java</code>
-      </td>
-      <td style="padding:8px 10px;vertical-align:top;">
-        Original iteration exploring foundational architecture & feature scaffolding.
-        <div style="margin-top:6px;font-family:'JetBrains Mono',monospace;font-size:11px;">
-          Scope ██████░░░░ (60%) • Status: <span style="background:#fff;color:#000;padding:1px 4px;font-weight:600;">LEGACY</span>
-        </div>
-      </td>
-      <td style="padding:8px 10px;width:50px;text-align:right;vertical-align:top;">
-        ★2
-      </td>
-    </tr>
-    <tr style="background:#0a0a0a;border:1px solid #222;">
-      <td style="padding:8px 10px;width:24%;vertical-align:top;">
-        <strong><a href="https://github.com/achllzvr/washette" style="color:#fff;">washette</a></strong><br/>
-        <code style="font-family:'JetBrains Mono',monospace;font-size:11px;">PHP</code>
-      </td>
-      <td style="padding:8px 10px;vertical-align:top;">
-        Website build focusing on structure, routing & templating fundamentals.
-        <div style="margin-top:6px;font-family:'JetBrains Mono',monospace;font-size:11px;">
-          Scope ████████░░ (80%) • Status: <span style="background:#fff;color:#000;padding:1px 4px;font-weight:600;">ACTIVE</span>
-        </div>
-      </td>
-      <td style="padding:8px 10px;width:50px;text-align:right;vertical-align:top;">
-        ★2
-      </td>
-    </tr>
-    <tr style="background:#0a0a0a;border:1px solid #222;">
-      <td style="padding:8px 10px;width:24%;vertical-align:top;">
-        <strong><a href="https://github.com/achllzvr/G-A-L-A" style="color:#fff;">G-A-L-A</a></strong><br/>
-        <code style="font-family:'JetBrains Mono',monospace;font-size:11px;">CSS · HTML</code>
-      </td>
-      <td style="padding:8px 10px;vertical-align:top;">
-        Layout & styling practice (semantic structure + modular classes).
-        <div style="margin-top:6px;font-family:'JetBrains Mono',monospace;font-size:11px;">
-          Scope ██████░░░░ (60%) • Status: <span style="background:#fff;color:#000;padding:1px 4px;font-weight:600;">IN PROG</span>
-        </div>
-      </td>
-      <td style="padding:8px 10px;width:50px;text-align:right;vertical-align:top;">
-        ★1
-      </td>
-    </tr>
-    <tr style="background:#0a0a0a;border:1px solid #222;">
-      <td style="padding:8px 10px;width:24%;vertical-align:top;">
-        <strong><a href="https://github.com/achllzvr/mareese-retreat" style="color:#fff;">mareese-retreat</a></strong><br/>
-        <code style="font-family:'JetBrains Mono',monospace;font-size:11px;">HTML</code>
-      </td>
-      <td style="padding:8px 10px;vertical-align:top;">
-        Static informational site focusing on structure & clean markup.
-        <div style="margin-top:6px;font-family:'JetBrains Mono',monospace;font-size:11px;">
-            Scope ███████░░░ (70%) • Status: <span style="background:#fff;color:#000;padding:1px 4px;font-weight:600;">STABLE</span>
-        </div>
-      </td>
-      <td style="padding:8px 10px;width:50px;text-align:right;vertical-align:top;">
-        ★1
-      </td>
-    </tr>
-  </tbody>
-</table>
+<!-- Each project: NAME badge (linked) + STACK + STATUS + STARS + SCOPE -->
+<p style="display:flex;flex-wrap:wrap;gap:6px;margin:0 0 10px 0;">
+  <a href="https://github.com/achllzvr/NUtify">
+    <img alt="NUtify" height="30" src="https://img.shields.io/badge/NUtify-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000">
+  </a>
+  <img alt="Flutter" height="30" src="https://img.shields.io/badge/FLUTTER-000000?style=for-the-badge&logo=flutter&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Status BETA" height="30" src="https://img.shields.io/badge/STATUS_BETA-000000?style=for-the-badge&logo=terminal&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Stars 1" height="30" src="https://img.shields.io/badge/STARS_1-000000?style=for-the-badge&logo=star&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Scope 80%" height="30" src="https://img.shields.io/badge/SCOPE_80%25-000000?style=for-the-badge&logo=progress&logoColor=FFFFFF&labelColor=000000">
+</p>
+
+<p style="display:flex;flex-wrap:wrap;gap:6px;margin:0 0 10px 0;">
+  <a href="https://github.com/achllzvr/NUtify-Alpha">
+    <img alt="NUtify-Alpha" height="30" src="https://img.shields.io/badge/NUtify--Alpha-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000">
+  </a>
+  <img alt="Java" height="30" src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Status Legacy" height="30" src="https://img.shields.io/badge/STATUS_LEGACY-000000?style=for-the-badge&logo=archive&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Stars 2" height="30" src="https://img.shields.io/badge/STARS_2-000000?style=for-the-badge&logo=star&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Scope 60%" height="30" src="https://img.shields.io/badge/SCOPE_60%25-000000?style=for-the-badge&logo=progress&logoColor=FFFFFF&labelColor=000000">
+</p>
+
+<p style="display:flex;flex-wrap:wrap;gap:6px;margin:0 0 10px 0;">
+  <a href="https://github.com/achllzvr/washette">
+    <img alt="washette" height="30" src="https://img.shields.io/badge/washette-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000">
+  </a>
+  <img alt="PHP" height="30" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Status Active" height="30" src="https://img.shields.io/badge/STATUS_ACTIVE-000000?style=for-the-badge&logo=rocket&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Stars 2" height="30" src="https://img.shields.io/badge/STARS_2-000000?style=for-the-badge&logo=star&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Scope 80%" height="30" src="https://img.shields.io/badge/SCOPE_80%25-000000?style=for-the-badge&logo=progress&logoColor=FFFFFF&labelColor=000000">
+</p>
+
+<p style="display:flex;flex-wrap:wrap;gap:6px;margin:0 0 10px 0;">
+  <a href="https://github.com/achllzvr/G-A-L-A">
+    <img alt="G-A-L-A" height="30" src="https://img.shields.io/badge/G--A--L--A-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000">
+  </a>
+  <img alt="CSS_HTML" height="30" src="https://img.shields.io/badge/CSS_·_HTML-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Status In Progress" height="30" src="https://img.shields.io/badge/STATUS_IN_PROGRESS-000000?style=for-the-badge&logo=hammer&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Stars 1" height="30" src="https://img.shields.io/badge/STARS_1-000000?style=for-the-badge&logo=star&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Scope 60%" height="30" src="https://img.shields.io/badge/SCOPE_60%25-000000?style=for-the-badge&logo=progress&logoColor=FFFFFF&labelColor=000000">
+</p>
+
+<p style="display:flex;flex-wrap:wrap;gap:6px;margin:0;">
+  <a href="https://github.com/achllzvr/mareese-retreat">
+    <img alt="mareese-retreat" height="30" src="https://img.shields.io/badge/mareese--retreat-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000">
+  </a>
+  <img alt="HTML" height="30" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Status Stable" height="30" src="https://img.shields.io/badge/STATUS_STABLE-000000?style=for-the-badge&logo=check&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Stars 1" height="30" src="https://img.shields.io/badge/STARS_1-000000?style=for-the-badge&logo=star&logoColor=FFFFFF&labelColor=000000">
+  <img alt="Scope 70%" height="30" src="https://img.shields.io/badge/SCOPE_70%25-000000?style=for-the-badge&logo=progress&logoColor=FFFFFF&labelColor=000000">
+</p>
 <!-- PROJECTS-CARDS:END -->
 
-<hr style="border:0;border-top:1px solid #222;margin:16px 0 14px 0;" />
+<hr style="border:0;border-top:1px solid #222;margin:20px 0 14px 0;" />
 
-<!-- ACTIVITY -->
-<h3 style="font-family:Helvetica,Arimo,'Segoe UI',Arial,sans-serif;font-size:15px;
-           margin:0 0 8px 0;font-weight:600;display:flex;align-items:center;gap:6px;">
-  <img alt="activity icon" width="18" src="data:image/svg+xml;utf8,
-  <svg xmlns='http://www.w3.org/2000/svg' width='18' height='18' stroke='white' stroke-width='1.2' fill='none'>
-    <path d='M3 14l3.5-4 2.5 3 3-5 3 6'/>
-  </svg>">
-  GITHUB ACTIVITY
-</h3>
+<!-- ACTIVITY Heading Badge -->
+<p style="margin:0 0 10px 0;">
+  <img alt="ACTIVITY" height="30" src="https://img.shields.io/badge/GITHUB_ACTIVITY-000000?style=for-the-badge&logo=pulse&logoColor=FFFFFF&labelColor=000000">
+</p>
 
-<!-- High-Level Stats Line -->
+<!-- Stats Cards (Forced White) -->
+<div style="display:flex;flex-wrap:wrap;gap:12px;margin:0 0 10px 0;">
+  <img alt="GitHub Stats" height="150"
+       src="https://github-readme-stats.vercel.app/api?username=achllzvr&show_icons=true&hide_rank=false&hide_title=false&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=00000000" />
+  <img alt="GitHub Streak" height="150"
+       src="https://streak-stats.demolab.com?user=achllzvr&hide_border=false&border=FFFFFF&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" />
+</div>
+
+<!-- High-Level Activity Text -->
 <pre style="font-family:'JetBrains Mono',Consolas,monospace;font-size:11.5px;
-            line-height:1.35;background:#0a0a0a;color:#fff;padding:10px 12px;
-            border:1px solid #222;border-radius:4px;max-width:640px;margin:0 0 10px 0;">
+            line-height:1.35;background:#0a0a0a;color:#FFFFFF;padding:10px 12px;
+            border:1px solid #222;border-radius:4px;max-width:640px;margin:0 0 8px 0;">
 <!-- ACTIVITY-STATS:START -->
 30d Commits: ---   Open Repos: 20   Active Projects: 5   Stars (own): 7
 Last Push: ---     Focus: Flutter UI · Web fundamentals
@@ -196,16 +159,8 @@ Last Push: ---     Focus: Flutter UI · Web fundamentals
   <code><!-- COMMITS-SPARKLINE:START -->▁▂▂▄▅▃▆█▅▅▄▂▃▆<!-- COMMITS-SPARKLINE:END --></code>
 </div>
 
-<!-- Stats Cards (Monochrome Theme via params) -->
-<div style="display:flex;flex-wrap:wrap;gap:10px;margin-bottom:6px;">
-  <img alt="GitHub Stats" height="148"
-       src="https://github-readme-stats.vercel.app/api?username=achllzvr&show_icons=true&hide_rank=false&border_color=000000&title_color=000000&text_color=000000&icon_color=000000&bg_color=00000000&hide_title=false&line_height=20" />
-  <img alt="GitHub Streak" height="148"
-       src="https://streak-stats.demolab.com?user=achllzvr&hide_border=false&border=000000&background=00000000&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&currStreakNum=000000&dates=000000" />
-</div>
-
 <!-- Recent Commits -->
-<div style="font-family:'JetBrains Mono',Consolas,monospace;font-size:11.25px;margin-top:6px;">
+<div style="font-family:'JetBrains Mono',Consolas,monospace;font-size:11.25px;margin-top:4px;">
   <strong style="font-family:Helvetica,Arimo,sans-serif;font-size:12px;">Recent Commits</strong><br />
   <!-- RECENT-COMMITS:START -->
   (Placeholder for recent commits)
@@ -220,43 +175,7 @@ Last Push: ---     Focus: Flutter UI · Web fundamentals
   <!-- RECENT-REPOS:END -->
 </div>
 
-<hr style="border:0;border-top:1px solid #222;margin:18px 0 12px 0;" />
-
-<!-- LANGUAGE MIX -->
-<h3 style="font-family:Helvetica,Arimo,'Segoe UI',Arial,sans-serif;font-size:15px;
-           margin:0 0 8px 0;font-weight:600;display:flex;align-items:center;gap:6px;">
-  <img alt="lang icon" width="18" src="data:image/svg+xml;utf8,
-  <svg xmlns='http://www.w3.org/2000/svg' width='18' height='18' stroke='white' stroke-width='1.2' fill='none'>
-    <circle cx='9' cy='9' r='7'/><path d='M9 2v14M2 9h14'/>
-  </svg>">
-  LANGUAGE MIX
-</h3>
-
-<!-- Badge Summary -->
-<p style="margin:6px 0;display:flex;flex-wrap:wrap;gap:6px;">
-  <img alt="HTML 42%" height="28" src="https://img.shields.io/badge/HTML_42%25-000000?style=for-the-badge&labelColor=000000&color=000000">
-  <img alt="PHP 26%" height="28" src="https://img.shields.io/badge/PHP_26%25-000000?style=for-the-badge&labelColor=000000&color=000000">
-  <img alt="CSS 11%" height="28" src="https://img.shields.io/badge/CSS_11%25-000000?style=for-the-badge&labelColor=000000&color=000000">
-  <img alt="JS 11%" height="28" src="https://img.shields.io/badge/JS_11%25-000000?style=for-the-badge&labelColor=000000&color=000000">
-  <img alt="Java 5%" height="28" src="https://img.shields.io/badge/Java_5%25-000000?style=for-the-badge&labelColor=000000&color=000000">
-  <img alt="Dart 5%" height="28" src="https://img.shields.io/badge/Dart_5%25-000000?style=for-the-badge&labelColor=000000&color=000000">
-</p>
-
-<!-- ASCII Bar Chart -->
-<pre style="font-family:'JetBrains Mono',Consolas,monospace;font-size:11.3px;
-            line-height:1.3;background:#0a0a0a;color:#fff;padding:10px 12px;
-            border:1px solid #222;border-radius:4px;max-width:420px;margin-top:4px;">
-<!-- LANG-BARCHART:START -->
-HTML        ██████████████████████ 42%
-PHP         ████████████           26%
-CSS         ████                   11%
-JavaScript  ████                   11%
-Java        ██                     5%
-Dart        ██                     5%
-<!-- LANG-BARCHART:END -->
-</pre>
-
-<hr style="border:0;border-top:1px solid #222;margin:18px 0 12px 0;" />
+<hr style="border:0;border-top:1px solid #222;margin:20px 0 12px 0;" />
 
 <details>
   <summary style="font-family:Helvetica,Arimo,'Segoe UI',Arial,sans-serif;
