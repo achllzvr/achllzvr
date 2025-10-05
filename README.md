@@ -21,7 +21,7 @@
   font-weight:380;
 ">
   <!-- SHORT-DESCRIPTION:START -->
-  Dean’s Lister & team‑oriented full‑stack (web & mobile) student developer building practical academic + personal projects.
+  Consistent First Honor Dean’s Lister & team‑oriented Full‑Stack (web & mobile) student developer building practical academic + personal projects.
   <!-- SHORT-DESCRIPTION:END -->
 </p>
 
@@ -93,14 +93,7 @@
   text-transform:uppercase;
 ">
   STACK
-  <span style="
-    position:absolute;
-    left:0;
-    bottom:0;
-    width:100%;
-    height:2px;
-    background:linear-gradient(to right,#ffffff,#ffffff 65%,rgba(255,255,255,0.25));
-  "></span>
+  <br>
 </h2>
 
 <!-- Primary Language / Framework Badges -->
@@ -142,14 +135,7 @@
   text-transform:uppercase;
 ">
   GITHUB ACTIVITY
-  <span style="
-    position:absolute;
-    left:0;
-    bottom:0;
-    width:100%;
-    height:2px;
-    background:linear-gradient(to right,#ffffff,#ffffff 65%,rgba(255,255,255,0.25));
-  "></span>
+  <br>
 </h2>
 
 <div style="display:flex;flex-wrap:wrap;gap:14px;margin:0 0 4px 0;">
