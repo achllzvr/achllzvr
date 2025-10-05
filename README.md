@@ -24,24 +24,49 @@ I balance academic excellence with hands‑on development—building practical a
 
 ## 🛠 Skills & Languages
 
-(Adjust or expand to reflect depth.)
+### Core Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-**Primary Languages:** Dart (Flutter), Java, PHP, JavaScript (ES6+), HTML, CSS  
-**Mobile & Cross‑Platform:** Flutter  
-**Web / Backend:** PHP (Laravel or native), Node.js (if applicable), REST APIs  
-**Frontend:** Responsive UI, basic component systems, CSS organization, Bootstrap / Tailwind (if used)  
-**Databases:** MySQL / MariaDB, (add others you use)  
-**Version Control & Workflow:** Git, GitHub (branches, PRs)  
-**Foundational Concepts:** OOP, basic data structures, MVC patterns, state management (Flutter), authentication & sessions  
-**Content & Communication:** Technical note-taking, tutorial-style breakdowns, educational video content  
+### Mobile / Cross‑Platform
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 
-> Add frameworks/tools only if you have built and maintained at least one project with them.
+### Web / Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Node.js (planned/if used)](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![REST](https://img.shields.io/badge/REST-009688?logo=fastapi&logoColor=white)
+
+### Frontend
+![Responsive UI](https://img.shields.io/badge/Responsive_Design-0A0A0A?logo=google-chrome&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![(Tailwind if used)](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+
+### Tooling & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Version Control](https://img.shields.io/badge/Workflow-Branches%20|%20Commits%20|%20PRs-4B8BBE)
+
+### Concepts
+![OOP](https://img.shields.io/badge/Concepts-OOP-orange)
+![MVC](https://img.shields.io/badge/Architecture-MVC-blue)
+![State Management](https://img.shields.io/badge/State%20Management-Flutter%20Patterns-5C2D91)
+![Authentication](https://img.shields.io/badge/Focus-Auth%20%26%20Sessions-green)
+
+> Remove or add badges as you refine your stack. Only keep those you actively use or are intentionally learning.
 
 ---
 
 ## 🌟 Top 5 Projects (Curated)
-
-Project selection based on current public repositories (stars / relevance). Refine summaries with specific goals or impact if desired.
 
 <!-- TOP-PROJECTS:START -->
 | Project | Summary | Tech / Domain | Stars |
@@ -55,69 +80,47 @@ Project selection based on current public repositories (stars / relevance). Refi
 
 <details>
 <summary>📘 Optional Extended Notes</summary>
-
-You can enrich each project with a short result-oriented line:
-- Goal / Problem
-- What you built (core feature, architecture decision)
-- Outcome (usability improvement, learning objective met, academic requirement satisfied)
-
+Add impact sentences here later (e.g., “Practiced structured state management in Flutter,” “Improved layout semantics,” etc.).
 </details>
 
 ---
 
-## 📂 All Public Repositories (Snapshot)
+## 📊 GitHub Metrics & Activity
 
-| Repository | Stars | Primary Language | Description |
-|-----------|-------|------------------|-------------|
-| [NUtify-Alpha](https://github.com/achllzvr/NUtify-Alpha) | 2 | Java | CTAPDEVL Finals - NUtify |
-| [washette](https://github.com/achllzvr/washette) | 2 | PHP | Washette's Website Repository. |
-| [G-A-L-A](https://github.com/achllzvr/G-A-L-A) | 1 | CSS | Gala - Arrangerist - Lang - Ako |
-| [NUtify](https://github.com/achllzvr/NUtify) | 1 | Dart | NUtify Repository. (Currently in Beta) |
-| [WebDev-Materials](https://github.com/achllzvr/WebDev-Materials) | 1 | PHP | A collation of the files I used to learn in my Web Development course (Final Term) |
-| [Exceptions-Mementos](https://github.com/achllzvr/Exceptions-Mementos) | 1 | HTML |  |
-| [mareese-retreat](https://github.com/achllzvr/mareese-retreat) | 1 | HTML |  |
-| [CHED-Pages](https://github.com/achllzvr/CHED-Pages) | 0 | PHP |  |
-| [Rabina-Midterm](https://github.com/achllzvr/Rabina-Midterm) | 0 | HTML | WebDev course's Midterms Exam |
-| [Chi-sVal-25](https://github.com/achllzvr/Chi-sVal-25) | 0 | HTML |  |
-| [WebDevSessions](https://github.com/achllzvr/WebDevSessions) | 0 | HTML | A collation of the files I used to learn in my Web Development course (Midterms) |
-| [AdvDB](https://github.com/achllzvr/AdvDB) | 0 | — |  |
-| [Advanced-Database-Materials](https://github.com/achllzvr/Advanced-Database-Materials) | 0 | JavaScript | A collation of the files I used to learn in my Advanced Database course (Final Term) |
-| [AdvancedDBSessions](https://github.com/achllzvr/AdvancedDBSessions) | 0 | HTML | Collation of my Advanced Database course session's hands-on works. |
-| [counter-app](https://github.com/achllzvr/counter-app) | 0 | JavaScript |  |
-| [Chi](https://github.com/achllzvr/Chi) | 0 | CSS |  |
-| [WebDev](https://github.com/achllzvr/WebDev) | 0 | HTML |  |
-| [BootstrapPrototypePage](https://github.com/achllzvr/BootstrapPrototypePage) | 0 | HTML | Repository containing progress of creating a personal portfolio with Bootstrap. |
-| [Labhidini](https://github.com/achllzvr/Labhidini) | 0 | PHP | Labhidini's System Repository. |
-| [NULP-Tabulation-System-2025](https://github.com/achllzvr/NULP-Tabulation-System-2025) | 0 | PHP |  |
+| Stat | Card |
+|------|------|
+| General | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achllzvr&show_icons=true&hide_border=true&theme=transparent) |
+| Streak | ![Streak](https://streak-stats.demolab.com?user=achllzvr&theme=transparent&hide_border=true) |
+| Languages (Repo %)** | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achllzvr&layout=compact&hide_border=true&theme=transparent&langs_count=8) |
 
----
+**Note:** Percentages approximate (file size weighted). For actual skill depth see “Skills & Languages.”
 
-## 📊 Language Usage (Approximate)
-
-(Distribution based on primary language classification of public repositories.)
-
-```
-HTML        ~42%
-PHP         ~26%
-CSS         ~11%
-JavaScript  ~11%
-Java         ~5%
-Dart         ~5%
-```
-
-> Percentages approximate count-based presence (not weighted by code size).
-
----
-
-## 🔁 Commits & Recent Activity
-
+### Recent Commits
 <!-- RECENT-COMMITS:START -->
 (Placeholder for recent commits list)
 <!-- RECENT-COMMITS:END -->
 
+### Recent Repository Activity
 <!-- RECENT-REPOS:START -->
 (Placeholder for recent repository activity)
 <!-- RECENT-REPOS:END -->
+
+---
+
+## 📊 Language Usage (Badge View)
+
+> Approximate distribution across public repos (by project presence, not exact SLOC). Adjust numbers as you generate more precise stats.
+
+![HTML](https://img.shields.io/badge/HTML-42%25-E34F26?logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-26%25-777BB4?logo=php&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-11%25-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-11%25-F7DF1E?logo=javascript&logoColor=222)
+![Java](https://img.shields.io/badge/Java-5%25-007396?logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-5%25-0175C2?logo=dart&logoColor=white)
+
+<!-- CUSTOM-LANG-STATS:START -->
+(You can optionally replace this whole badge block above with a dynamic code-style bar chart produced by a script.)
+<!-- CUSTOM-LANG-STATS:END -->
 
 ---
 
@@ -133,17 +136,11 @@ Dart         ~5%
 
 ---
 
-## 🎯 Current Focus (Optional Section)
+## 🎯 Current Focus
 
 - Strengthening full-stack production patterns (API structure, error handling)
 - Refining Flutter UI performance fundamentals
 - Deepening database design and query optimization knowledge
-
----
-
-## 🤝 Connect
-
-[LinkedIn](https://www.linkedin.com/in/avrabina/) • [YouTube Channel](https://www.youtube.com/@chi.11101)
 
 ---
 
