@@ -8,7 +8,7 @@
   letter-spacing:.6px;
   margin:0 0 10px 0;
 ">
-  Achllzvr
+  Achilles Vonn Rabina
 </h1>
 
 <!-- Lead / Short Description -->
