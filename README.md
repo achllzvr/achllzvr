@@ -40,7 +40,7 @@
          src="https://img.shields.io/badge/FOLLOWERS-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000">
   </a>
 </div>
-
+<br />
 <!-- Bio Line -->
 <p style="
   font-family:Helvetica,Arimo,'Segoe UI',Arial,sans-serif;
@@ -54,7 +54,7 @@
   border-radius:6px;
 ">
   <!-- BIO:START -->
-  <strong style="font-weight:600;">Focus:</strong> Full‑Time Student · Full‑Stack Mobile (Flutter) · Full‑Stack Web · Software Engineer · Content Creator
+  <strong style="font-weight:600;">Focus:</strong> Full‑Time Student · Full‑Stack Mobile (Flutter/ Java) · Full‑Stack Web (PHP, MySQL, Tailwind) · Software Engineer · Content Creator
   <!-- BIO:END -->
 </p>
 
