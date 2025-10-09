@@ -135,9 +135,10 @@
                    font-size:13px;font-weight:600;cursor:pointer;">Current Focus</summary>
   <div style="font-family:Helvetica,Arimo,'Segoe UI',Arial,sans-serif;
               font-size:12.5px;line-height:1.45;margin-top:6px;">
-    • Flutter performance tuning<br />
-    • Cleaner API structuring & error handling patterns<br />
-    • Database query optimization basics
+    • MERN based projects.<br />
+    • Creation of complex and highly customized web systems for people.<br />
+    • Backend and Database focused engineer.<br />
+    • Team-oriented approach while managing project life cycle and progress.
   </div>
 </details>
 
