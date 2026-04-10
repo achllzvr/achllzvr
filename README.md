@@ -109,8 +109,6 @@
 ### GITHUB ACTIVITY
 
 <div style="display:flex;flex-wrap:wrap;gap:12px;margin:0 0 6px 0;">
-  <img alt="GitHub Stats" height="150"
-       src="https://github-readme-stats.vercel.app/api?username=achllzvr&show_icons=true&hide_rank=false&hide_title=false&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=00000000&line_height=22" />
   <img alt="GitHub Streak" height="150"
        src="https://streak-stats.demolab.com?user=achllzvr&hide_border=false&border=FFFFFF&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" />
 </div>
